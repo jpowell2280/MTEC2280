@@ -14,7 +14,7 @@ void draw() {
      background(255, 0, 0);
     } else {
      background(0, 255, 255);
-// a cathc-all (all other conditions)
+// a catch-all (all other conditions)
 //counter++ increaes the the counter by 1
      counter++; 
   }
